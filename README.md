@@ -1,6 +1,3 @@
-# Financial Excel projects
-Financial project demonstrating Excel skills
-
 # Actual vs. Budget Excel Dashboard
 
 ## Introduction
