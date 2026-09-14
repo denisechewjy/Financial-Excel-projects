@@ -1,4 +1,7 @@
 # Actual vs. Budget Excel Dashboard
+<img width="1550" height="537" alt="Screenshot 2026-09-14 233233" src="https://github.com/user-attachments/assets/06624344-ee47-4a27-9d8f-b618720e73e6" />
+<img width="1851" height="487" alt="Screenshot 2026-09-14 233338" src="https://github.com/user-attachments/assets/3db06ff8-ce39-4e21-a88a-9ef831770030" />
+
 
 ## Introduction
 This dashboard was created to show how I built a dynamic actuals vs budget dashboard from scratch for a hypothetical company's internal budget.
@@ -20,7 +23,6 @@ The financial dataset used for this project was adapted from https://www.kaggle.
 realistic corporate financial transactions categorized by department, expense category, and region, covering the period from 2021 to 2023.
 
 The original dataset primarily contained expense-related data. To make the dataset more representative of a real-world corporate financial environment, it was modified using AI to incorporate income data, specifically
-Product Revenue and Service Revenue. The date range was also adjusted to focus exclusively on 2025, with monthly data added to represent the full calendar year. These modifications allow for an analysis of both
-corporate income and expenses throughout a more recent year.
+Product Revenue and Service Revenue. The date range was also adjusted to focus exclusively on 2023. 
 
 ## Dashboard Build
