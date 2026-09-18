@@ -1,5 +1,5 @@
 # Actual vs. Budget Excel Dashboard
-<img width="1550" height="537" alt="Screenshot 2026-09-14 233233" src="https://github.com/user-attachments/assets/06624344-ee47-4a27-9d8f-b618720e73e6" />
+<img width="1475" height="494" alt="Screenshot 2026-09-18 124620" src="https://github.com/user-attachments/assets/54a94778-278e-4cbc-8ac6-75b76cc8a9a7" />
 <img width="1851" height="487" alt="Screenshot 2026-09-14 233338" src="https://github.com/user-attachments/assets/3db06ff8-ce39-4e21-a88a-9ef831770030" />
 
 
@@ -26,3 +26,7 @@ The original dataset primarily contained expense-related data. To make the datas
 Product Revenue and Service Revenue. The date range was also adjusted to focus exclusively on 2023. 
 
 ## Dashboard Build
+:bar_chart: Charts:
+### Income and expense - Clustered Column
+<img width="540" height="325" alt="Screenshot 2026-09-18 110929" src="https://github.com/user-attachments/assets/93dd0009-86cc-4ea6-9e3b-cb27c74542e1" />
+
